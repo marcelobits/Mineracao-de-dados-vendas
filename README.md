@@ -4,7 +4,7 @@
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Mineração de dados em um Fluxo de vendas**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | PowerBi, Excel
 | :rocket: URL         | https://bit.ly/3PxGvx7
 | :fire: Desafio     |
 
