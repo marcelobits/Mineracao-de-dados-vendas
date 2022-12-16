@@ -157,6 +157,7 @@ O objetivo deste visual é simular cenários que auxiliem na política de comiss
 ![image](https://user-images.githubusercontent.com/44843566/207979210-d311c00f-097b-4508-b926-c2feb8024c43.png)
 
 
+
 Gostou do Projeto ou tem alguma dúvida ou sugestão? 
 
 Me adiciona no Linkedin: https://www.linkedin.com/in/marcelo-ferreira-dados/
