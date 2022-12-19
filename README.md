@@ -62,7 +62,8 @@ Classificação da base de clientes dos últimos 6 anos em:
 
 O objetivo desta visualização é demonstrar a Dispersão dos clientes ao longo dos anos tendo como base o volume de reservas e faturamento, facilitando a visualização da evolução da base como um todo podendo futuramente inserir uma matriz de classificação com base em sua posição no gráfico como uma balanced scorecard, como a imagem abaixo.
 
-![image](https://user-images.githubusercontent.com/44843566/207947628-95ab2987-84d5-4722-a997-0122b01a59a2.png)
+![image](https://user-images.githubusercontent.com/44843566/208444718-30883bd5-f078-43b3-b6aa-627747412080.png)
+
 
 
 
@@ -81,8 +82,9 @@ O objetivo desta visualização é demonstrar a Dispersão dos clientes ao longo
 O Objetivo desta visualização é analisar qual o mix de clientes que de forma acumulada representam uma grande fatia do faturamento. Podendo a partir desta análise fomentar uma diversificação caso seja necessário.
 
 
-*O nome dos clientes foram distorcidos.
-![image](https://user-images.githubusercontent.com/44843566/207952491-a1321180-f43b-414b-bffd-d0481a465bd8.png)
+
+![image](https://user-images.githubusercontent.com/44843566/208444899-000c2350-6e98-49d1-8943-f25ab1a3424b.png)
+
 
 
 **Faturamento x Quantidade**
@@ -91,12 +93,12 @@ O Objetivo desta visualização é analisar qual o mix de clientes que de forma 
 
 O objetivo desta análise é uma visualização ao longo dos meses a fim de identificar tendências mais abrangentes, tendo como referência a quantidade média dos últimos 12 meses. A análise Semanal nos ajuda a avaliar os dias da semana com maior pico de viagens executadas, nota-se que durante a semana existe uma quantidade menor de locações em comparação com o final de semana que pode se tratar de uma limitação ou apenas uma característica do negócio. Para uma avaliação mais abrangente seria necessário a quantidade de propostas realizadas também por dia de semana para avaliar se existe demanda para os dias da semana.
 
-![image](https://user-images.githubusercontent.com/44843566/207962944-143a1a51-117d-4a26-83a1-d8f2bec900ba.png)
+![image](https://user-images.githubusercontent.com/44843566/208445092-fac0c0e1-d004-471e-b1ca-46535d3dbad2.png)
 
 
 A mesma Base de Análise das Reservas, também foi reaproveitada para Analisar o Faturamento. Nota-se que alguns pontos mesmo sobre a mesma base apresentam movimentos diferentes como por exemplo: Durante a semana vemos que na quarta feira a uma quantidade média de 15 viagens realizadas porém analisando o faturamento médio no mesmo dia da semana nota-se que o menor valor médio também ocorre na quarta feira. Para uma análise mais abrangente também seria necessário uma avaliação das propostas enviadas e mensurar a quantidade de valores promocionais e quesitos de aplicação.
 
-![image](https://user-images.githubusercontent.com/44843566/207965625-6566cb94-5142-4a02-a087-035df9508857.png)
+![image](https://user-images.githubusercontent.com/44843566/208445226-d151d7b0-ee78-4990-ad9d-406101e64498.png)
 
 
 
@@ -105,10 +107,10 @@ A mesma Base de Análise das Reservas, também foi reaproveitada para Analisar o
 O objetivo desta análise é apresentar uma sazonalidade que aparenta ser uma característica do negócio, podendo futuramente ser incorporada a uma previsão
 
 *Quantidade*
-![image](https://user-images.githubusercontent.com/44843566/207968549-cc8a446d-101a-41a7-856b-468455feecaa.png)
+![image](https://user-images.githubusercontent.com/44843566/208445430-7d0f1698-0859-4d8c-83fd-4afd28dd0892.png)
 
 *Faturamento*
-![image](https://user-images.githubusercontent.com/44843566/207968777-bc062e54-e4ea-44e7-bf04-d5d0c72a7d8d.png)
+![image](https://user-images.githubusercontent.com/44843566/208445538-5bf84274-9ef7-4b16-bc42-56829a3e7882.png)
 
 
 **Rentabilidade**
@@ -118,7 +120,7 @@ O objetivo desta análise é apresentar uma sazonalidade que aparenta ser uma ca
 O objetivo deste painel é demonstrar o faturamento por quilômetro. O serviço ofertado como produto é o transporte que tem como uma parte de composição de Preço a Quilometragem da viagem, logo se o contratante planeja e paga por 100 quilômetro mas utiliza apenas 50 quilômetro a rentabilidade da viagem aumenta.
 
 
-![image](https://user-images.githubusercontent.com/44843566/207971284-65790e95-ef1e-48f4-a0be-3d258edd8bd9.png)
+![image](https://user-images.githubusercontent.com/44843566/208445722-211fb1ce-531a-44c2-95df-2fa402c7b858.png)
 
 
 
@@ -136,7 +138,7 @@ Exemplo:
 nota-se que o valor médio de faturamento por viagem que se repete mais de 140 vezes é entre 2375 e 2875 no ano de 2022
 
 
-![image](https://user-images.githubusercontent.com/44843566/207976784-5c91df8f-7f39-4ec1-861a-5c758bfb448e.png)
+![image](https://user-images.githubusercontent.com/44843566/208445842-3af8ae9e-5013-49bd-972e-e8f4f7f22cfb.png)
 
 
 **Inconsistências**
@@ -145,7 +147,7 @@ nota-se que o valor médio de faturamento por viagem que se repete mais de 140 v
 
 O objetivo deste visual é demonstrar falhas no processo administrativo do fluxo de vendas e qual sua representação monetária.
 
-![image](https://user-images.githubusercontent.com/44843566/207978203-c52f9e53-0001-45c0-ab2c-74a3fd00dcd0.png)
+![image](https://user-images.githubusercontent.com/44843566/208446019-83588642-c3ac-4633-b537-dce46d17d10a.png)
 
 
 **Simulador**
@@ -154,7 +156,7 @@ O objetivo deste visual é demonstrar falhas no processo administrativo do fluxo
 
 O objetivo deste visual é simular cenários que auxiliem na política de comissionamento dos vendedores, a fim de alavancar movimentações em direções estratégicas.
 
-![image](https://user-images.githubusercontent.com/44843566/207979210-d311c00f-097b-4508-b926-c2feb8024c43.png)
+![image](https://user-images.githubusercontent.com/44843566/208446126-6833bb0a-b884-4d19-92a3-df505f7e903f.png)
 
 
 
